@@ -1,0 +1,28 @@
+_repo: Mrs-Caudle-s-Curtain-Lectures_6054
+creator:
+  author:
+    agent_name: Jerrold, Douglas William
+    aliases:
+    - Whitefeather, Barabbas
+    - Brownrigg, Henry
+    - Jerrold, D. W. (Douglas William)
+    birthdate: 1803
+    deathdate: 1857
+    gutenberg_agent_id: '1922'
+    url: http://www.gutenberg.org/2009/agents/1922
+    wikipedia: http://en.wikipedia.org/wiki/Douglas_William_Jerrold
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcsh 'Marriage -- Humor'
+- !lcc 'PR'
+title: Mrs. Caudle's Curtain Lectures
+url: http://www.gutenberg.org/ebooks/6054
