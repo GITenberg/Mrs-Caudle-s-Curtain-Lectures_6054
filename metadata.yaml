@@ -1,5 +1,5 @@
 _repo: Mrs-Caudle-s-Curtain-Lectures_6054
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'English wit and humor'
 - !lcsh 'Marriage -- Humor'
 - !lcc 'PR'
+- GITenberg
 title: Mrs. Caudle's Curtain Lectures
 url: http://www.gutenberg.org/ebooks/6054
